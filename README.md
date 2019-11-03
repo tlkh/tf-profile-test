@@ -1,6 +1,6 @@
 # tf-profile-test
 
-Code at the end of the Jupyter notebook allows you to generate output to see distribution of time spent in various types of compute kernels. 
+Code at the end of the Jupyter notebook allows you to generate output to see distribution of time spent in various types of compute kernels. Uses TensorFlow 2.0 and requires CUPTI to be installed.
 
 **ResNet 50, XLA + AMP**
 
